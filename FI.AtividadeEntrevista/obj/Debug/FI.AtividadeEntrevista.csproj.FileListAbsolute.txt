@@ -1,0 +1,15 @@
+C:\Users\ricar\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\ricar\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\ricar\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Users\ricar\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\ricar\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\ricar\OneDrive\Documentos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\ricar\OneDrive\Documentos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\ricar\OneDrive\Documentos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Documentos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Documentos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\ricar\OneDrive\Documentos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\ricar\OneDrive\Documentos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ricar\OneDrive\Documentos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ricar\OneDrive\Documentos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.Ativi.A54B2C84.Up2Date
